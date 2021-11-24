@@ -6,3 +6,7 @@
 
 ### RUN Apps
 ```npm run start```
+
+or 
+### With ts-node
+``` ts-node solution.ts```
