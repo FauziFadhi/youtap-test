@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node solution.js",
+    "build": "tsc solution.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.9"
+  }
+}
